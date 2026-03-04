@@ -7,7 +7,7 @@ const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
 const POSTS_DATA_PATH = path.join(ROOT, 'src', 'generated', 'posts-data.js');
 
-const SITE_URL = 'https://beyondthecode.dev';
+const SITE_URL = 'https://codemeetsculture.dev';
 const SITE_TITLE = 'Beyond the Code';
 const SITE_DESCRIPTION = 'Thoughts on architecture, culture and software evolution. Blog by Jakub Ciszak.';
 const AUTHOR_NAME = 'Jakub Ciszak';
