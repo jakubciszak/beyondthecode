@@ -7,8 +7,8 @@ const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
 const POSTS_DATA_PATH = path.join(ROOT, 'src', 'generated', 'posts-data.js');
 
-const SITE_URL = 'https://beyondthecode.dev';
-const SITE_NAME = 'Beyond the Code';
+const SITE_URL = 'https://codemeetsculture.dev';
+const SITE_NAME = 'Code meets culture';
 
 /* ── Read posts data ── */
 async function loadPostsData() {
